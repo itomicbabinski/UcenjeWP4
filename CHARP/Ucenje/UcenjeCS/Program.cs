@@ -1,8 +1,10 @@
 ﻿
 using UcenjeCS;
-E01UlazIzlaz.Izvedi();
-    {
-    //Console.WriteLine("Hello world");    
-}
+
+E02VarijableTipoviPodatakaOperatori.Izvedi();
+
+
+//E01UlazIzlaz.Izvedi();
+
 
 
