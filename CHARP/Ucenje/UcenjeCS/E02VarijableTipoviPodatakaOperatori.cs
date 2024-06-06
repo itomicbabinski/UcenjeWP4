@@ -11,6 +11,10 @@ namespace UcenjeCS
             broj = int.Parse(Console.ReadLine());
             Console.WriteLine(broj + 1);
 
+            Console.WriteLine("Unesi decimalni broj: ");
+            decimal db = decimal.Parse(Console.ReadLine());
+            Console.WriteLine(db/10);
+
         }
     }
 }
