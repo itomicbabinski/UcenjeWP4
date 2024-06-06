@@ -15,6 +15,7 @@ namespace UcenjeCS
             decimal db = decimal.Parse(Console.ReadLine());
             Console.WriteLine(db/10);
 
+
         }
     }
 }
