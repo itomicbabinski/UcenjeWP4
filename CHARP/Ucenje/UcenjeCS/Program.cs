@@ -1,7 +1,7 @@
 ﻿
 using UcenjeCS;
 
-E05Z1.Izvedi();
+E06ForPetlja.Izvedi();
 //E02VarijableTipoviPodatakaOperatori.Izvedi();
 
 

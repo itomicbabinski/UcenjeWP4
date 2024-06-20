@@ -19,7 +19,7 @@ namespace ZadacaCS
             int A1 = 0;
             int B0 = imax - 2;
             int B1 = 0;
-            int ij = max;
+            int ij = 1;
             int i;
             int j;
 
@@ -31,37 +31,37 @@ namespace ZadacaCS
                 {
                     i = B0 + 1;
                     tablica[i, j] = ij;
-                    ij = ij - 1;
-                    if (ij == 0) { break; }
+                    ij = ij + 1;
+                    if (ij == max + 1) { break; }
                 }
-                if (ij == 0) { break; }
+                if (ij == max + 1) { break; }
 
                 for (i = B0; i >= B1; i--)
                 {
                     j = A1;
                     tablica[i, j] = ij;
-                    ij = ij - 1;
-                    if (ij == 0) { break; }
+                    ij = ij + 1;
+                    if (ij == max+1) { break; }
                 }
-                if (ij == 0) { break; }
+                if (ij == max + 1) { break; }
 
                 for (j = B1 + 1; j <= A0; j++)
                 {
                     i = B1;
                     tablica[i, j] = ij;
-                    ij = ij - 1;
-                    if (ij == 0) { break; }
+                    ij = ij + 1;
+                    if (ij == max + 1) { break; }
                 }
-                if (ij == 0) { break; }
+                if (ij == max + 1) { break; }
 
                 for (i = A1 + 1; i <= B0; ++i)
                 {
                     j = A0;
                     tablica[i, j] = ij;
-                    ij = ij - 1;
-                    if (ij == 0) { break; }
+                    ij = ij + 1;
+                    if (ij == max + 1) { break; }
                 }
-                if (ij == 0) { break; }
+                if (ij == max + 1) { break; }
 
                 A0 = A0 - 1;
                 A1 = A1 + 1;

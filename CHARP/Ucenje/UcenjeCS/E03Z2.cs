@@ -35,4 +35,5 @@ namespace UcenjeCS
                 else { Console.WriteLine(p1); }
             }
         }
+    }
 }
