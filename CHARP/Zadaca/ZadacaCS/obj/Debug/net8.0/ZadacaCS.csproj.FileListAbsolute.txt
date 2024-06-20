@@ -1,0 +1,15 @@
+C:\Users\Igor\Documents\GitHub\UcenjeWP4\CHARP\Zadaca\ZadacaCS\bin\Debug\net8.0\ZadacaCS.exe
+C:\Users\Igor\Documents\GitHub\UcenjeWP4\CHARP\Zadaca\ZadacaCS\bin\Debug\net8.0\ZadacaCS.deps.json
+C:\Users\Igor\Documents\GitHub\UcenjeWP4\CHARP\Zadaca\ZadacaCS\bin\Debug\net8.0\ZadacaCS.runtimeconfig.json
+C:\Users\Igor\Documents\GitHub\UcenjeWP4\CHARP\Zadaca\ZadacaCS\bin\Debug\net8.0\ZadacaCS.dll
+C:\Users\Igor\Documents\GitHub\UcenjeWP4\CHARP\Zadaca\ZadacaCS\bin\Debug\net8.0\ZadacaCS.pdb
+C:\Users\Igor\Documents\GitHub\UcenjeWP4\CHARP\Zadaca\ZadacaCS\obj\Debug\net8.0\ZadacaCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Documents\GitHub\UcenjeWP4\CHARP\Zadaca\ZadacaCS\obj\Debug\net8.0\ZadacaCS.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\GitHub\UcenjeWP4\CHARP\Zadaca\ZadacaCS\obj\Debug\net8.0\ZadacaCS.AssemblyInfo.cs
+C:\Users\Igor\Documents\GitHub\UcenjeWP4\CHARP\Zadaca\ZadacaCS\obj\Debug\net8.0\ZadacaCS.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\GitHub\UcenjeWP4\CHARP\Zadaca\ZadacaCS\obj\Debug\net8.0\ZadacaCS.sourcelink.json
+C:\Users\Igor\Documents\GitHub\UcenjeWP4\CHARP\Zadaca\ZadacaCS\obj\Debug\net8.0\ZadacaCS.dll
+C:\Users\Igor\Documents\GitHub\UcenjeWP4\CHARP\Zadaca\ZadacaCS\obj\Debug\net8.0\refint\ZadacaCS.dll
+C:\Users\Igor\Documents\GitHub\UcenjeWP4\CHARP\Zadaca\ZadacaCS\obj\Debug\net8.0\ZadacaCS.pdb
+C:\Users\Igor\Documents\GitHub\UcenjeWP4\CHARP\Zadaca\ZadacaCS\obj\Debug\net8.0\ZadacaCS.genruntimeconfig.cache
+C:\Users\Igor\Documents\GitHub\UcenjeWP4\CHARP\Zadaca\ZadacaCS\obj\Debug\net8.0\ref\ZadacaCS.dll
