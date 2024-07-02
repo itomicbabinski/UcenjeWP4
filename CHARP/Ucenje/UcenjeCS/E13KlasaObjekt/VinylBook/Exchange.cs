@@ -8,5 +8,12 @@ namespace UcenjeCS.E13KlasaObjekt.VinylBook
 {
     internal class Exchange
     {
+        public int Id { get; set; }
+        public User Participant { get; set; }
+        public int? Exchange_id { get; set; }
+        public Album Album { get; set; }
+        public Record_copie? Record_copie_id { get; set; }
+        public string Estatus { get; set; }
+
     }
 }
