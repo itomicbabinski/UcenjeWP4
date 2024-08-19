@@ -1,7 +1,7 @@
-﻿
-using UcenjeCS;
+﻿using UcenjeCS;
+using UcenjeCS.E13KlasaObjekt;
 
-E06ForPetlja.Izvedi();
+UcenjeCS.E13KlasaObjekt.Program.Izvedi();
 //E02VarijableTipoviPodatakaOperatori.Izvedi();
 
 

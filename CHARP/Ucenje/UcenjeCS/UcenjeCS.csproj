@@ -7,4 +7,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="E13KlasaObjekt\NewFolder1\**" />
+    <Compile Remove="E13KlasaObjekt\NewFolder2\**" />
+    <Compile Remove="E13KlasaObjekt\NewFolder\**" />
+    <EmbeddedResource Remove="E13KlasaObjekt\NewFolder1\**" />
+    <EmbeddedResource Remove="E13KlasaObjekt\NewFolder2\**" />
+    <EmbeddedResource Remove="E13KlasaObjekt\NewFolder\**" />
+    <None Remove="E13KlasaObjekt\NewFolder1\**" />
+    <None Remove="E13KlasaObjekt\NewFolder2\**" />
+    <None Remove="E13KlasaObjekt\NewFolder\**" />
+  </ItemGroup>
+
 </Project>

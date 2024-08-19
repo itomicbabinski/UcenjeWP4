@@ -39,7 +39,7 @@ namespace UcenjeCS
             Console.WriteLine("ukupno: " + k );
             */
 
-            niz
+           
 
         }
     }
